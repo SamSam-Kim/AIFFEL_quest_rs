@@ -27,7 +27,7 @@ AIFFEL_quest_rs
 │   │   ├── .ipynb
 │   │   └── README.md
 │   └── Ex07
-│   │   ├── .ipynb
+│       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
 │   ├── GD01
@@ -82,7 +82,7 @@ AIFFEL_quest_rs
 │   │   ├── .ipynb
 │   │   └── README.md
 │   └── GD18
-│   │   ├── .ipynb
+│       ├── .ipynb
 │       └── README.md
 ├── MainQuest
 │   ├── Quest01
@@ -98,7 +98,7 @@ AIFFEL_quest_rs
 │   │   ├── .ipynb
 │   │   └── README.md
 │   └── Quest05
-│   │   ├── .ipynb
+│       ├── .ipynb
 │       └── README.md
 └── README.md
 
