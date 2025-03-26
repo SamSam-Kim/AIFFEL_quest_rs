@@ -30,58 +30,31 @@ AIFFEL_quest_rs
 │       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
-│   ├── GD01
+│   ├── GD01-02
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD02
+│   ├── GD03-04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD03
+│   ├── GD05-06
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD04
+│   ├── GD07-08
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD05
+│   ├── GD09-10
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD06
+│   ├── GD11-12
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD07
+│   ├── GD13-14
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD08
+│   ├── GD15-16
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── GD09
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD10
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD11
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD12
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD13
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD14
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD15
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD16
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── GD17
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── GD18
+│   └── GD17-18
 │       ├── .ipynb
 │       └── README.md
 ├── MainQuest
