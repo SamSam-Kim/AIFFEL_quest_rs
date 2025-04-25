@@ -13,7 +13,8 @@
     ![image](https://github.com/user-attachments/assets/0ca94a0e-1655-456b-9896-a2b7149fb79a)
 
     한국어 질문을 통해 맥락에 맞는 답변을 돌려주었다.  
-    ![image](https://github.com/user-attachments/assets/f3bea23b-3de5-40a5-9025-bb9b5d105cbd)
+    ![image](https://github.com/user-attachments/assets/089becd8-9a75-40a9-b0ea-2c293ec8bf63)
+
 
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**  
@@ -24,7 +25,8 @@
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**  
     입력 데이터에 여러가지 시도를 하였다. 훈련 세트에 많이 없는 주제도 넣어보며 다양한 주제로 실험했다.  
-    ![image](https://github.com/user-attachments/assets/11b1a5c9-65e1-49ad-b8e2-50eb072b4322)  
+    ![image](https://github.com/user-attachments/assets/21991865-0858-4322-999d-8cadb8f8978d)
+
     ![image](https://github.com/user-attachments/assets/0ad19ff9-c72c-46fc-8b96-a275947fb73b)
 
 
