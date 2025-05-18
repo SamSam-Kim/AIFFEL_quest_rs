@@ -24,13 +24,11 @@
         - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_14.png?raw=true">
         
 - [O]  **4. 회고를 잘 작성했나요?**
-    - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
-    배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
-    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+    - 전체 실험 결과를 구체적으로 분석하여서 결론에 작성해 놓았고 개선 방안을 심사숙고하여 도출하였습니다.
         
 - [O]  **5. 코드가 간결하고 효율적인가요?**
-    <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_15.png?raw=true">
+    -
+        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_15.png?raw=true">
 
 
 # 회고(참고 링크 및 코드 개선)
