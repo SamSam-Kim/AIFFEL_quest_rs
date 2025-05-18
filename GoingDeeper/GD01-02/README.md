@@ -15,7 +15,7 @@
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    - bottle neck block을 구체적으로 잘 구현하였습니다.
+    - bottle neck block을 구체적으로 잘 구현하였고, 작동 방식을 이해할 수 있도록 주석을 작성하였습니다.
         - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_13.png?raw=true">
         
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
