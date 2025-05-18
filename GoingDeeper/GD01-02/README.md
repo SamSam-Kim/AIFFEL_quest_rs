@@ -6,12 +6,12 @@
 # PRT(Peer Review Template)
 - [O]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 1. ResNet-34, ResNet-50 모델 구현이 정상적으로 진행되었습니다.
-        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_9.png?raw=true">
-        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_10.png?raw=true">
+         <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_9.png?raw=true">
+         <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_10.png?raw=true">
     - 2. 구현한 ResNet 모델을 활용하여 Image Classification 모델 훈련이 가능합니다.
-        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_11.png?raw=true">
+         <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_11.png?raw=true">
     - 3. Ablation Study 결과가 바른 포맷으로 제출되었습니다.
-        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_12.png?raw=true">
+         <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_12.png?raw=true">
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
