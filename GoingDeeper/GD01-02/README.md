@@ -20,7 +20,8 @@
         
 - [O]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
-    <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_14.png?raw=true">
+    - 추가 실험을 진행하여 다른 데이터셋에 대해서는 모델이 어떻게 학습되는지를 비교 및 분석하였습니다.
+        - <img src = "https://github.com/bluegold75/AIFFEL_QUEST_RS/blob/main/image/sam_14.png?raw=true">
         
 - [O]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
